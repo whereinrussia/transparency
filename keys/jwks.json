@@ -1,0 +1,16 @@
+{
+ "retrieved": "2026-11-27T09:11:34.356Z",
+ "source": "https://whereinrussia.com/.well-known/jwks.json",
+ "keys": [
+  {
+   "kty": "OKP",
+   "crv": "Ed25519",
+   "x": "ro2fWg0xlDUPKpbg8OR-ui7pKK2zpfdBG7Ii2tuyrG0",
+   "alg": "EdDSA",
+   "use": "sig",
+   "kid": "JXTT3FA6K23r1uvsUFkB-F9o4c_Z0D8udP3DMFeIPo0",
+   "status": "current",
+   "first_seen": "2026-11-27T05:47:59.241Z"
+  }
+ ]
+}
