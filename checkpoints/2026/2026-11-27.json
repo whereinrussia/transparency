@@ -1,0 +1,16 @@
+{
+ "kind": "wir.transparency-checkpoint",
+ "v": 1,
+ "log": "https://whereinrussia.com/api/transparency",
+ "day": "2026-11-27",
+ "size": 254,
+ "root": "d35c198f597413e60808353583d9aa86b3a391d14e1e4d5d9edb66b7fbcc7ed2",
+ "prev": null,
+ "createdAt": "2026-11-28T02:23:05.477Z",
+ "signed": {
+  "alg": "EdDSA",
+  "kid": "JXTT3FA6K23r1uvsUFkB-F9o4c_Z0D8udP3DMFeIPo0"
+ },
+ "signature": "0i3DDHn2NWW55X2IKNEmf45YnlaLJQi90hvDr9fypWZ3w5bIaXHTOr4ye_QIjaRHQbwCOl2t1OMwpfpB_mwGAA",
+ "digest": "5031089f0ad32ae52b51e9b7b7bbac0b85a07bb55e5f90f351313bd34cfc0a25"
+}

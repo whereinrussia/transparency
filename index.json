@@ -1,4 +1,14 @@
 {
  "log": "https://whereinrussia.com/api/transparency",
- "checkpoints": []
+ "checkpoints": [
+  {
+   "day": "2026-11-27",
+   "size": 254,
+   "root": "d35c198f597413e60808353583d9aa86b3a391d14e1e4d5d9edb66b7fbcc7ed2",
+   "digest": "5031089f0ad32ae52b51e9b7b7bbac0b85a07bb55e5f90f351313bd34cfc0a25",
+   "kid": "JXTT3FA6K23r1uvsUFkB-F9o4c_Z0D8udP3DMFeIPo0",
+   "prev": null,
+   "file": "checkpoints/2026/2026-11-27.json"
+  }
+ ]
 }
